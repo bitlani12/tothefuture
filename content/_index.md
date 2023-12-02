@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Secure Your Business with Advanced IT Solutions
+  content: IT services, delivering cutting-edge solutions tailored to optimize performance and drive success in the digital landscape.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
@@ -11,28 +11,28 @@ banner:
 feature: 
   title: Something You Need To Know
   features:
-  - name: "Clean Code"
-    icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
-    icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+  # - name: "Clean Code"
+  #   icon: "/images/code.svg"
+  #   content: "Dive into practical tips, real-world examples, and expert insights to elevate your coding craftsmanship and make your codebase a joy to work with."
+  # - name: "Object Oriented"
+  #   icon: "/images/oop.svg"
+  #   content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
   - name: "24h Service"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Experience uninterrupted IT support, day or night. Our 24/7 service ensures that your technology stays seamlessly operational around the clock. Trust our dedicated team to deliver swift resolutions, expert guidance, and peace of mind whenever you need it."
   - name: "Value for Money"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Discover unparalleled value for your investment with our IT services. We pride ourselves on delivering robust solutions that not only meet your technology needs but also optimize costs. Experience a harmonious blend of quality, efficiency, and affordability, making every IT investment truly worthwhile."
   - name: "Faster Response"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Experience the power of prompt IT support with our lightning-fast response times. When challenges arise, our dedicated team leaps into action, ensuring minimal downtime and delivering solutions at the speed of your business. Trust us to keep your technology running seamlessly, always one step ahead."
+  # - name: "Cloud Support"
+  #   icon: "/images/cloud.svg"
+  #   content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
+  - title: "It is the most advanced software development and it company."
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images:
       - "/images/service-slide-1.png"
@@ -43,7 +43,7 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
+  - title: "It is a privately owned Information and software development company"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images: 
       - "/images/service-slide-1.png"

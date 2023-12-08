@@ -44,7 +44,7 @@ plans:
 
 call_to_action:
   title: Need a larger plan?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  content: Unlock the full potential of your business with our larger plans tailored for growth. Our premium plans are designed to provide you with the extra resources.
   image: '/images/cta.svg'
   button:
     enable: true

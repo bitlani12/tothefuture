@@ -32,7 +32,7 @@ feature:
 
 # services
 services:
-  - title: "It is the most advanced software development and it company."
+  - title: "Elevate Your Digital Presence with Unmatched Technological Prowess."
     content: "Our mission is to redefine possibilities through cutting-edge software development, leveraging the latest technologies to drive transformative outcomes for our clients. We aim to be the go-to partner for those seeking unparalleled expertise in the IT landscape."
     images:
       - "/images/service-slide-1.png"
@@ -77,14 +77,12 @@ services:
 # workflow
 workflow: 
   title: "Experience the best workflow with us"
-  image: "/images/banner.svg"
   description: ""
 
 # call_to_action
 call_to_action:
   title: Ready to get started?
   content: We are not just a software development company; we are your partners in progress. Here's why we are ready to get started on your next project.
-  image: '/images/cta.svg'
   button:
     enable: true
     label: "Contact Us"

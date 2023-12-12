@@ -4,14 +4,14 @@
       "name": "Home",
       "url": "/"
     },
-    {
-      "name": "Services",
-      "url": "/blogs"
-    },
-    {
-      "name": "Pricing",
-      "url": "/pricing"
-    },
+    // {
+    //   "name": "Services",
+    //   "url": "/blogs"
+    // },
+    // {
+    //   "name": "Pricing",
+    //   "url": "/pricing"
+    // },
     {
       "name": "Contact",
       "url": "/contact"

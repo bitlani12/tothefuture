@@ -1,7 +1,7 @@
 ---
-title: What you need to know about Photography
+title:  Optimize your website and boost your online authority.
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/nodejs.webp"
+image: "/images/seo.png"
 date: 2022-06-02T06:00:00+00:00
 draft: false
 ---

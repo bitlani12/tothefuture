@@ -67,8 +67,8 @@ services:
     content: "In a crowded landscape of software development, To The Future emerges as a beacon of innovation and unparalleled excellence. We don't just create software; we craft transformative solutions that set us apart from the rest. Here's why [Company Name] stands head and shoulders above the competition."
     images:
       - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      # - "/images/service-slide-2.png"
+      # - "/images/service-slide-3.png"
     button:
       enable: true
       label: Check it out

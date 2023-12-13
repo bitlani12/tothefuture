@@ -13,8 +13,8 @@ const Footer = () => {
     <footer className="section bg-theme-light pb-0">
       <div className="container">
         {/* footer menu */}
-        <div className="row">
-          {footer.map((col) => {
+        <div className="row justify-center">
+          {/* {footer.map((col) => {
             return (
               <div className="mb-12 sm:col-6 lg:col-3" key={col.name}>
                 {markdownify(col.name, "h2", "h4")}
@@ -29,9 +29,9 @@ const Footer = () => {
                 </ul>
               </div>
             );
-          })}
+          })} */}
           {/* social icons */}
-          <div className="md-12 sm:col-6 lg:col-3">
+          <div className="md-12 sm:col-6 justify-center">
             <Link href="/" aria-label="Bigspring">
               <Image
                 src={config.site.logo}
@@ -41,7 +41,7 @@ const Footer = () => {
               />
             </Link>
             {markdownify(footer_content, "p", "mt-3 mb-6")}
-            <Social source={social} className="social-icons mb-8" />
+            <Social source={social} className="social-icons mb-8 justify-center flex" />
           </div>
         </div>
         {/* copyright */}

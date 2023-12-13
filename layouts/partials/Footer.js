@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="container">
         {/* footer menu */}
         <div className="row">
-          {footer.map((col) => {
+          {/* {footer.map((col) => {
             return (
               <div className="mb-12 sm:col-6 lg:col-3" key={col.name}>
                 {markdownify(col.name, "h2", "h4")}
@@ -29,7 +29,7 @@ const Footer = () => {
                 </ul>
               </div>
             );
-          })}
+          })} */}
           {/* social icons */}
           <div className="md-12 sm:col-6 lg:col-3">
             <Link href="/" aria-label="Bigspring">

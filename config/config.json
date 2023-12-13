@@ -2,7 +2,7 @@
   "site": {
     "title": "ToTheFuture",
     "base_url": "/",
-    "favicon": "/images/logo.png",
+    "favicon": "/images/favicon_ttf.png",
     "logo": "/images/nobackground.svg",
     "logo_width": "200",
     "logo_height": "48",

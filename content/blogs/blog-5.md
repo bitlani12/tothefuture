@@ -8,8 +8,6 @@ draft: false
 
 <!-- ##### Heading example -->
 
-We thrive on innovation, implementing the latest technologies and trends to ensure your website stands out in the ever-evolving digital landscape..
-                                                                
 # Heading 1
 
 ## Heading 2

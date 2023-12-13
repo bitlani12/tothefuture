@@ -67,8 +67,8 @@ services:
     content: "In a crowded landscape of software development, To The Future emerges as a beacon of innovation and unparalleled excellence. We don't just create software; we craft transformative solutions that set us apart from the rest. Here's why [Company Name] stands head and shoulders above the competition."
     images:
       - "/images/service-slide-1.png"
-      # - "/images/service-slide-2.png"
-      # - "/images/service-slide-3.png"
+      - "/images/service-slide-2.png"
+      - "/images/service-slide-3.png"
     button:
       enable: true
       label: Check it out
@@ -77,16 +77,36 @@ services:
 # workflow
 workflow: 
   title: "Experience the best workflow with us"
-  image: "/images/banner.svg"
   description: ""
 
 # call_to_action
 call_to_action:
   title: Ready to get started?
   content: We are not just a software development company; we are your partners in progress. Here's why we are ready to get started on your next project.
-  image: '/images/cta.svg'
   button:
     enable: true
     label: "Contact Us"
     link: "/contact"
+
+# feature1
+
+feature1: 
+  title: We Work On
+  features:
+  # - name: "Clean Code"
+  #   icon: "/images/code.svg"
+  #   content: "Dive into practical tips, real-world examples, and expert insights to elevate your coding craftsmanship and make your codebase a joy to work with."
+  # - name: "Object Oriented"
+  #   icon: "/images/oop.svg"
+  #   content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+  - name: "React JS"
+    icon: "/images/user-clock.svg"
+    content: "Experience uninterrupted IT support, day or night. Our 24/7 service ensures that your technology stays seamlessly operational around the clock. Trust our dedicated team to deliver swift resolutions, expert guidance, and peace of mind whenever you need it."
+  - name: "React Native"
+    icon: "/images/love.svg"
+    content: "Discover unparalleled value for your investment with our IT services. We pride ourselves on delivering robust solutions that not only meet your technology needs but also optimize costs. Experience a harmonious blend of quality, efficiency, and affordability, making every IT investment truly worthwhile."
+  - name: "Node JS"
+    icon: "/images/speedometer.svg"
+    content: "Experience the power of prompt IT support with our lightning-fast response times. When challenges arise, our dedicated team leaps into action, ensuring minimal downtime and delivering solutions at the speed of your business. Trust us to keep your technology running seamlessly, always one step ahead."
+
 ---

@@ -13,7 +13,7 @@ const Footer = () => {
     <footer className="section bg-theme-light pb-0">
       <div className="container">
         {/* footer menu */}
-        <div className="row">
+        <div className="row justify-center">
           {/* {footer.map((col) => {
             return (
               <div className="mb-12 sm:col-6 lg:col-3" key={col.name}>

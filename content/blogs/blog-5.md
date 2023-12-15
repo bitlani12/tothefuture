@@ -6,9 +6,8 @@ date: 2022-08-04T05:00:00Z
 draft: false
 ---
 
-##### TO THE FUTURE
-Tailored solutions that align with your unique vision and business objectives we leverage the latest tools and trends to keep your website at the 
-forefront of innovation.                                                  
+##### Heading example
+
 Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
 
 # Heading 1

@@ -80,6 +80,54 @@ workflow:
   image: "/images/banner.svg"
   description: ""
 
+#career
+careerimg: 
+  title: "Experience "
+  image: "/images/career.jpg"
+  description: ""
+
+#investing
+investing: 
+  title: "investing "
+  image: "/images/investing.jpg"
+  description: ""
+
+  #second
+second: 
+  title: "second"
+  image: "/images/second.png"
+  description: ""
+  #third
+third: 
+  title: "third "
+  image: "/images/third.jpg"
+  description: ""
+  #ifour
+four: 
+  title: "four"
+  image: "/images/four.jpg"
+  description: ""
+
+trust: 
+  title: "trust"
+  image: "/images/trust.jpg"
+  description: ""
+
+trans: 
+  title: "trans"
+  image: "/images/trans.png"
+  description: ""
+
+integrity: 
+  title: "integrity"
+  image: "/images/integrity.png"
+  description: ""
+
+leadership: 
+  title: "leadership"
+  image: "/images/leadership.png"
+  description: ""
+
 # call_to_action
 call_to_action:
   title: Ready to get started?
@@ -90,3 +138,4 @@ call_to_action:
     label: "Contact Us"
     link: "/contact"
 ---
+

@@ -167,7 +167,7 @@ Our engineers have opportunities to learn new technologies, work in different ve
                 height={100}
               />
               </div>
-              <div className='text-center mt-10 p-1'>
+              <div className='text-center mt-10 p-2'>
                 <h3 className=''>Trust</h3>
                   Be authentic, realistic, and practice principles of high character and competence.
               </div>

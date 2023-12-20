@@ -5,6 +5,10 @@
       "url": "/"
     },
     {
+      "name": "Services",
+      "url": "/blogs"
+    },
+    {
       "name": "Contact",
       "url": "/contact"
     },
@@ -17,10 +21,7 @@
     {
       "name": "Company",
       "menu": [
-        {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
+        
         {
           "text": "Quick Start",
           "url": "#"

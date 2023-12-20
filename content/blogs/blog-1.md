@@ -1,15 +1,15 @@
 ---
-title: "What you need to know about Photography"
+title: "Strategic Digital Marketing Solutions for Unrivaled Growth"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-# image: "/images/blog-1.jpg"
+image: "/images/Top-Digital-Marketing-Agency-in-Liverpool.jpg"
 date: 2022-04-04T05:00:00Z
 draft: false
 ---
 
-##### Heading example
+ 
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
-
+Stand out in the crowded digital space with creative and innovative marketing campaigns that capture attention and leave a lasting impact.
+                                                        
 # Heading 1
 
 ## Heading 2

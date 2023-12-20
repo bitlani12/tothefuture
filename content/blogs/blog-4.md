@@ -1,7 +1,7 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Empower Your Ideas with Expert Mobile App Development Solutions"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-4.jpg"
+image: "/images/Custom-Mobile-App-Development-1.png"
 date: 2022-07-04T05:00:00Z
 draft: false
 ---

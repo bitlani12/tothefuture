@@ -186,3 +186,37 @@
   font-weight: bold;
 
 }
+.modal-button{
+  // border:1px solid red;
+  background-color: #71CAD5;
+  // padding: 2px;
+  padding-left: 6px;
+  padding-right: 6px;
+  // padding-top: -3px;
+
+}
+.x-button{
+  color: white;
+  // font-weight:bold;
+  font-size: 20px;
+}
+.paddingclass{
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 10px;
+}
+.main-div{
+  padding:1rem 8rem 2rem 
+}
+.main-div222{
+  // border: 2px solid green;
+  padding:1rem 3rem
+}
+.div-border{
+  border: 2px solid red;
+
+}
+.cross-btn{
+  display: flex;
+  justify-content: end;
+}

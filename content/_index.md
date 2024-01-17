@@ -78,7 +78,7 @@ services:
 workflow: 
   title: "Experience the best workflow with us"
   description: ""
-
+  image: "/images/banner.svg"
 #career
 careerimg: 
   title: "Experience "
@@ -131,6 +131,7 @@ leadership:
 call_to_action:
   title: Ready to get started?
   content: We are not just a software development company; we are your partners in progress. Here's why we are ready to get started on your next project.
+  image: '/images/cta.svg'
   button:
     enable: true
     label: "Contact Us"

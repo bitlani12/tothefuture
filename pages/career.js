@@ -45,7 +45,7 @@ const notFound = ({ frontmatter }) => {
             Share Your Resume At
 
             <br/> 
-            <h3 style={{ color: "#0AA8A7"}}>Manish@tothefuture.in</h3></div>
+            <h3 style={{ color: "#0AA8A7"}}>work@tothefuture.in</h3></div>
           </div>
         
       </Modal>
